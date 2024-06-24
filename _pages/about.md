@@ -7,7 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Assistant Professor of Marketing at Purdue University. I received my Ph.D. in Quantitative Marketing from Yale University. Prior to my doctoral studies, I worked at Myntra (online fashion retailer), 21st Century Fox (broadcast media) and Tata Consultancy Services (IT). I studied Electrical Engineering at the Indian Institute of Technology, Banaras Hindu University and received my Post Graduate Diploma in Management from the Indian Institute of Management, Ahmedabad.
+
+## Research Papers
+
+<details>
+  <summary>
+    Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis (with Alex Burnap and Vineet Kumar)<br>
+    <em>Conditionally Accepted at Journal of Marketing Research</em> <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a><br>
+  </summary>
+  <p>
+    This article develops a method to automatically discover and quantify human-interpretable visual characteristics directly from product image data. The method is generative, and can create new visual designs spanning the space of visual characteristics. It builds on disentanglement methods in deep learning using variational autoencoders, which aim to discover underlying statistically independent and interpretable visual characteristics of an object. The impossibility theorem in the deep learning literature indicates that supervision with ground truth characteristics would be required to obtain unique disentangled representations. However, these are typically unknown in real world applications, and are in fact exactly the characteristics we want to discover. Extant machine learning methods require ground truth labels for each visual characteristic, resulting in a task requiring human evaluation and judgment to both design and operationalize. In contrast, this method postulates the use of readily available product characteristics (such as brand and price) as proxy supervisory signals to enable disentanglement. This method discovers and quantifies human-interpretable and statistically independent characteristics without any specific domain knowledge on the product category. It is applied to a dataset of watches to automatically discover interpretable visual product characteristics, obtain consumer preferences over visual designs, and generate new ideal point designs targeted to specific consumer segments.
+  </p>
+</details>
+
+- Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
+- Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
+
+## Works in Progress
+
+<details>
+  <summary>
+    Market Structure Mapping with Visual Characteristics (with Vineet Kumar and Alex Burnap)<br>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer (with K. Sudhir and Nitish Jain)<br>
+  </summary>
+</details>
 
 A data-driven personal website
 ======
