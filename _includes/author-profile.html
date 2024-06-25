@@ -18,6 +18,9 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.curriculum_vitae %}
+    <p><a href="{{ author.curriculum_vitae | prepend: base_path | prepend: site.baseurl | prepend: '/' }}" target="_blank">Download CV</a></p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
