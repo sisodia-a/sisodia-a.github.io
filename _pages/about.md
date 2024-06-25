@@ -11,34 +11,16 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 ## Research Papers
 
-<details>
-  <summary>
-    Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis (with Alex Burnap and Vineet Kumar)<br>
-    <em>Conditionally Accepted at Journal of Marketing Research</em> <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
-  </summary>
-  <div class="abstract">
-  <p>
-    This article develops a method to automatically discover and quantify human-interpretable visual characteristics directly from product image data. The method is generative, and can create new visual designs spanning the space of visual characteristics. It builds on disentanglement methods in deep learning using variational autoencoders, which aim to discover underlying statistically independent and interpretable visual characteristics of an object. The impossibility theorem in the deep learning literature indicates that supervision with ground truth characteristics would be required to obtain unique disentangled representations. However, these are typically unknown in real world applications, and are in fact exactly the characteristics we want to discover. Extant machine learning methods require ground truth labels for each visual characteristic, resulting in a task requiring human evaluation and judgment to both design and operationalize. In contrast, this method postulates the use of readily available product characteristics (such as brand and price) as proxy supervisory signals to enable disentanglement. This method discovers and quantifies human-interpretable and statistically independent characteristics without any specific domain knowledge on the product category. It is applied to a dataset of watches to automatically discover interpretable visual product characteristics, obtain consumer preferences over visual designs, and generate new ideal point designs targeted to specific consumer segments.
-  </p>
-  </div>
-</details>
+Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis (with Alex Burnap and Vineet Kumar
+Conditionally Accepted at Journal of Marketing Research <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
 
 - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
 
 ## Works in Progress
 
-<details>
-  <summary>
-    Market Structure Mapping with Visual Characteristics (with Vineet Kumar and Alex Burnap)<br>
-  </summary>
-</details>
-
-<details>
-  <summary>
-    Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer (with K. Sudhir and Nitish Jain)<br>
-  </summary>
-</details>
+Market Structure Mapping with Visual Characteristics (with Vineet Kumar and Alex Burnap)
+Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer (with K. Sudhir and Nitish Jain)
 
 A data-driven personal website
 ======
