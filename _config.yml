@@ -25,7 +25,7 @@ author:
   name             : "Ankit Sisodia"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Marketing"
-  location         : "Earth"
+  location         : # URL
   employer         : "Purdue University"
   curriculum_vitae : "files/CV_Et_Al.pdf"
   uri              : # URL
