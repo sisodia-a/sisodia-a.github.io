@@ -11,8 +11,7 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 ## Research Papers
 
-_Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis_ (with Alex Burnap and Vineet Kumar)
-Conditionally Accepted at Journal of Marketing Research <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
+_Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis_ (with Alex Burnap and Vineet Kumar), Conditionally Accepted at Journal of Marketing Research <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
 
 - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
