@@ -11,7 +11,7 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 ## Research Papers
 
-Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis (with Alex Burnap and Vineet Kumar
+_Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis_ (with Alex Burnap and Vineet Kumar)
 Conditionally Accepted at Journal of Marketing Research <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
 
 - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
@@ -19,8 +19,8 @@ Conditionally Accepted at Journal of Marketing Research <a href="files/Generativ
 
 ## Works in Progress
 
-Market Structure Mapping with Visual Characteristics (with Vineet Kumar and Alex Burnap)
-Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer (with K. Sudhir and Nitish Jain)
+_Market Structure Mapping with Visual Characteristics_ (with Vineet Kumar and Alex Burnap)
+_Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with K. Sudhir and Nitish Jain)
 
 A data-driven personal website
 ======
