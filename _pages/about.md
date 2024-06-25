@@ -19,4 +19,5 @@ _Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoi
 ## Works in Progress
 
 _Market Structure Mapping with Visual Characteristics_ (with Vineet Kumar and Alex Burnap)
+
 _Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with K. Sudhir and Nitish Jain)
