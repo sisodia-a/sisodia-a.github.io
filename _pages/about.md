@@ -18,18 +18,6 @@ _Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoi
 
 Citation:
 Sisodia, A., Burnap, A., & Kumar, V. (2024). EXPRESS: Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis. Journal of Marketing Research, 0(ja). https://doi.org/10.1177/00222437241276736
-Copy Citation
-<script>
-function copyToClipboard() {
-  const citationText = "Sisodia, A., Burnap, A., & Kumar, V. (2024). EXPRESS: Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis. Journal of Marketing Research, 0(ja). https://doi.org/10.1177/00222437241276736";
-  navigator.clipboard.writeText(citationText).then(function() {
-    alert('Citation copied to clipboard!');
-  }, function() {
-    alert('Failed to copy citation');
-  });
-}
-</script>
-
 
 ## Works in Progress
 
