@@ -16,7 +16,7 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
 
-Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3)), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)  
+Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)  
 
 Citation:
 Sisodia, A., Burnap, A., & Kumar, V. (2024). EXPRESS: Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis. Journal of Marketing Research, 0(ja). https://doi.org/10.1177/00222437241276736
