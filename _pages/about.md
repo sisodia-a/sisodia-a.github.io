@@ -18,11 +18,11 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 ## Works in Progress
 
-1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
+1. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
+
+2. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
 
 - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
-
-2. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
 
 3. _Audio Logo Mapping with Mid-Level Features_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
 
