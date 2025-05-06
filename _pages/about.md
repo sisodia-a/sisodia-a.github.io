@@ -13,7 +13,6 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 1. _Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis_ (with [Alex Burnap](https://som.yale.edu/faculty-research/faculty-directory/alex-burnap) and [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar)), [Journal of Marketing Research](https://doi.org/10.1177/00222437241276736) (2025) <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
 
-- Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
 
 Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)  
@@ -21,6 +20,8 @@ Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPb
 ## Works in Progress
 
 1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
+
+- Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 
 2. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
 
