@@ -18,11 +18,10 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 ## Works in Progress
 
-1. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
+1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))  
+    - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 
-2. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
-
-- Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
+2. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
 
 3. _Audio Logo Mapping with Mid-Level Features_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
 
@@ -30,4 +29,5 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 
 5. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi))
 
-6. _Personalization under Uncertainty: A Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young- Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
+6. _Personalization under Uncertainty: A Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
+
