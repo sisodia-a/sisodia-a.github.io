@@ -12,22 +12,16 @@ I am an Assistant Professor of Marketing at Purdue University. I received my Ph.
 ## Research Papers
 
 1. _Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis_ (with [Alex Burnap](https://som.yale.edu/faculty-research/faculty-directory/alex-burnap) and [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar)), [Journal of Marketing Research](https://doi.org/10.1177/00222437241276736) (2025) <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
-
-- Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
-- Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)  
+  - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
+  - Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)  
 
 ## Works in Progress
 
 1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))  
     - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
-
 2. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
-
 3. _Audio Logo Mapping with Mid-Level Features_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
-
 4. _Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n))
-
 5. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi))
-
 6. _Personalization under Uncertainty: A Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
 
