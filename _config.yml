@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ankit Sisodia's Website"
+title                    : "Ankit Sisodia | Assistant Professor of Marketing"
 title_separator          : "-"
 name                     : &name "Ankit Sisodia"
 description              : &description "Assistant Professor of Marketing, Purdue University"
@@ -24,9 +24,9 @@ author:
   avatar           : "images/fotor_2023-5-23_17_46_37.png"
   name             : "Ankit Sisodia"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of Marketing"
-  location         : # URL
-  employer         : # URL
+  bio              : "Assistant Professor of Marketing at Daniels School of Business, Purdue University"
+  location         : "West Lafayette, IN"
+  employer         : "Purdue University"
   curriculum_vitae : "files/CV_Et_Al.pdf"
   uri              : # URL
   email            : "asisodia@purdue.edu" 
