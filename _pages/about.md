@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Marketing at Purdue University. I received my Ph.D. in Quantitative Marketing from Yale University. Prior to my doctoral studies, I worked at Myntra (online fashion retailer), 21st Century Fox (broadcast media) and Tata Consultancy Services (IT). I studied Electrical Engineering at the Indian Institute of Technology, Banaras Hindu University and received my Post Graduate Diploma in Management from the Indian Institute of Management, Ahmedabad.
+I am an Assistant Professor of Marketing at the Daniels School of Business, Purdue University. I received my Ph.D. in Quantitative Marketing from Yale University. Prior to my doctoral studies, I worked at Myntra (online fashion retailer), 21st Century Fox (broadcast media) and Tata Consultancy Services (IT). I studied Electrical Engineering at the Indian Institute of Technology, Banaras Hindu University and received my Post Graduate Diploma in Management from the Indian Institute of Management, Ahmedabad.
 
 ## Research Papers
 
