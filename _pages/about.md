@@ -15,13 +15,15 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
   - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
   - Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)  
 
+2.  _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar)), [MSI Working Paper Series](https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2025/MSI_Report_25-116.pdf
+) (2025)
+
 ## Works in Progress
 
 1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))  
     - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
-2. _Market Structure Mapping with Visual Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))
-3. _Sonic Logos_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
-4. _Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n))
-5. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi))
-6. _Personalization under Uncertainty: A Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
+2. _Data-Driven Audio Logo Design_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
+3. _Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n))
+4. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi))
+5. _Segment-Level Personalization and Customer Prototypicality: Evidence from a Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
 
