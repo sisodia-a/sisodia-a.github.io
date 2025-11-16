@@ -25,5 +25,5 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
 2. _Designing Personality Through Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
 3. _Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n))
 4. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi))
-5. _Segment-Level Personalization and Customer Prototypicality: Evidence from a Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
+5. _Designing Effective Segment-Level Personalization Using Customer Prototypicality: Evidence from a Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
 
