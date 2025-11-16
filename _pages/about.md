@@ -22,7 +22,7 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
 
 1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))  
     - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
-2. _Data-Driven Audio Logo Design_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
+2. _Designing Personality Through Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
 3. _Did *Illegal* Shopping Stymie India's Demonetization? Evidence from an Online Retailer_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n))
 4. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi))
 5. _Segment-Level Personalization and Customer Prototypicality: Evidence from a Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/))
