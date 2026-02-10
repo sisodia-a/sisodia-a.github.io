@@ -27,5 +27,5 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
     - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 2. _Designing Personality Through Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
 3. _Consumer Adaptation to a Currency Reform: Illicit Cash and Digital Payments_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n))
-4. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi)) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH)
+4. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH))
 
