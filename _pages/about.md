@@ -25,7 +25,7 @@ At Purdue, I teach New Product Development.
 
 2.  _Customer Prototypicality and Segment-Level Personalization Effectiveness: Evidence from a Field Experiment_ (with [Raghuram Iyengar](https://marketing.wharton.upenn.edu/profile/riyengar/) and [Young-Hoon Park](https://business.cornell.edu/faculty-research/faculty/yp34/)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6139914) (2026)
    
-3.  _Consumer Adaptation to a Currency Reform: Illicit Cash Use and Digital Payments_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n)), [SSRN]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6441400])) (2026)
+3.  _Consumer Adaptation to a Currency Reform: Illicit Cash Use and Digital Payments_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6441400) (2026)
 
 ## Works in Progress
 
