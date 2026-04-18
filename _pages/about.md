@@ -29,4 +29,5 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
     - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 2. _Designing Personality Through Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
 3. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH))
+  - Video: [FTC Conference](https://www.youtube.com/live/J1J4UYGa-4k?t=27000s)  
 
