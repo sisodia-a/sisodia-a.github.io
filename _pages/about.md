@@ -12,9 +12,9 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
 ## Publications
 
 1. _Generative Interpretable Visual Design: Using Disentanglement for Visual Conjoint Analysis_ (with [Alex Burnap](https://som.yale.edu/faculty-research/faculty-directory/alex-burnap) and [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar)), [Journal of Marketing Research](https://doi.org/10.1177/00222437241276736) (2025) <a href="files/GenerativeInterpretableVisualDesign.pdf">[PDF]</a>
-  - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
-  - Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)
-  - Video: [Business & Generative AI Workshop](https://www.youtube.com/watch?v=nTt3usxDfc8), hosted by Wharton at San Francisco  
+    - Finalist, 2023 ASA Statistics in Marketing Doctoral Research Award
+    - Podcast Appearance: [How I Wrote This](https://open.spotify.com/episode/04qzxpPbvQWwa9CMM1BgY3), hosted by Brett Gordon and Karen Winterich (Co-Editors of Journal of Marketing Research)
+    - Video: [Business & Generative AI Workshop](https://www.youtube.com/watch?v=nTt3usxDfc8), hosted by Wharton at San Francisco  
   
 
 ## Working Papers
@@ -26,7 +26,7 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
 3.  _Consumer Adaptation to a Currency Reform: Illicit Cash Use and Digital Payments_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6441400) (2026)
 
 4. __Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7219960) (2026)
-  - Video: [FTC Conference](https://www.youtube.com/live/J1J4UYGa-4k?t=27000s)  
+    - Video: [FTC Conference](https://www.youtube.com/live/J1J4UYGa-4k?t=27000s)  
 
 ## Works in Progress
 
