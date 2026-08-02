@@ -25,11 +25,12 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
    
 3.  _Consumer Adaptation to a Currency Reform: Illicit Cash Use and Digital Payments_ (with [K. Sudhir](https://som.yale.edu/faculty-research/faculty-directory/k-sudhir) and [Nitish Jain](https://www.london.edu/faculty-and-research/faculty-profiles/j/jain-n)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6441400) (2026)
 
+4. __Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7219960) (2026)
+  - Video: [FTC Conference](https://www.youtube.com/live/J1J4UYGa-4k?t=27000s)  
+
 ## Works in Progress
 
 1. _Economic Value of Visual Product Characteristics_ (with [Vineet Kumar](https://som.yale.edu/faculty-research/faculty-directory/vineet-kumar))  
     - Winner, 2023 ISMS Doctoral Dissertation Proposal Competition
 2. _Designing Personality Through Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang)
-3. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH))
-  - Video: [FTC Conference](https://www.youtube.com/live/J1J4UYGa-4k?t=27000s)  
 
