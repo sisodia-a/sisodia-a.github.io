@@ -28,7 +28,7 @@ I am an Assistant Professor of Marketing at the Daniels School of Business, Purd
 4. _Consumer Value of Privacy: Evidence from an Online Retailer_ (with [Mimansa Bairathi](https://www.mgmt.ucl.ac.uk/people/mimansabairathi) and [Mayur Choudhary](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=MCHOUDH)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7219960) (2026)
     - Video: [FTC Conference](https://www.youtube.com/live/J1J4UYGa-4k?t=27000s)  
 
-5. _What Does Sincerity Sound Like? Designing Brand Personality Using Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and [Jingyi Zhang]), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7672038) (2026)
+5. _What Does Sincerity Sound Like? Designing Brand Personality Using Audio_ (with [Hortense Fong](https://business.columbia.edu/faculty/people/hortense-fong) and Jingyi Zhang), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7672038) (2026)
 
 ## Works in Progress
 
